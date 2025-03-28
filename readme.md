@@ -3,56 +3,58 @@
 ### this is my projects directory. Or rather a List with links to all the individual ones. (Also todo List i guess) 
 
 
-- Switchy
-  - Print Parts
-  - Wire everything
-  - Build Together
-  - Integrate
-  - Permanent Location
+- [ ] Switchy
+  - [ ] Print Parts
+  - [ ] Wire everything
+  - [ ] Build Together
+  - [ ] Integrate
+  - [ ] Permanent Location
 
-- Mixing Hotend Klipper
-  - Build Toolhead
-  - Wire Toolhead
-    - replace exisiting one? 
-  - Make it pretty
+- [ ] Mixing Hotend Klipper\
+I already tried some sort of it on old Creality V1.1.4 MoBo w/ Klipper and seemed to work but needs refinement
+  - [ ] Build Toolhead
+  - [ ] Wire Toolhead
+    - [ ] replace exisiting one? 
+  - [ ] Make it pretty
+  
 
-- Linearize ESE
-  - Linear Rails - Check
-  - Printed Parts - Check
-  - Mount on SE
-    - Design new Toolhead for better kinematics
-  - Calibrate Again
-  - Mount ADXL
+- [ ] Linearize ESE
+  - [x] Linear Rails
+  - [x] Printed Parts
+  - [ ] Mount on SE
+    - [ ] Design new Toolhead for better kinematics
+  - [ ] Calibrate Again
+  - [ ] Mount ADXL
 
-- Enclosure
-  - Compact
-  - Silent
-  - Light
-  - Air Filtering if ABS
-  - Chamber Cooling if PLA
+- [ ] Enclosure
+  - [ ] Compact
+  - [ ] Silent
+  - [ ] LED Lights
+  - [ ] Air Filtering if ABS
+  - [ ] Chamber Cooling if PLA
 
-- HotSwap Toolhead
-  - Magnets
-  - Automatic Toolhead change
+- [ ] HotSwap Toolhead
+  - [ ] Magnets
+  - [ ] Automatic Toolhead change
 
-- Belted Z ESE
-  - Order req. Parts
-  - Print/Design other parts
-  - Put everything together
-  - Figure Klipper out
+- [ ] Belted Z ESE
+  - [ ] Order req. Parts
+  - [ ] Print/Design other parts
+  - [ ] Put everything together
+  - [ ] Figure Klipper out
 
-- InFiDEL - Inline Filament Diameter Estimator (lowcost) [https://www.printables.com/model/57154-infidel-inline-filament-diameter-estimator-lowcost]
-  - Order Parts - Check
-  - Print Parts
-  - Figure out stuff cuz i ordered slightly different parts
+- [ ] InFiDEL - Inline Filament Diameter Estimator (lowcost) [https://www.printables.com/model/57154-infidel-inline-filament-diameter-estimator-lowcost]
+  - [x] Order Parts
+  - [ ] Print Parts
+  - [ ] Figure out stuff cuz i ordered slightly different parts
 
-- Replace MoBo
+- [ ] Replace MoBo
   - ESE <- ENG
   - BTT Pico -> ENG
 
-- Peek/Abs Printer
-  - Heated Enclosure
-  - 100W hotend
-  - Air Filtration
-  - Silent
-  - Long Operations
+- [ ] Peek/Abs Printer
+  - [ ] Heated Enclosure
+  - [ ] 100W hotend
+  - [ ] Air Filtration
+  - [ ] Silent
+  - [ ] Long Operations
