@@ -32,6 +32,7 @@
   - [ ] LED Lights
   - [ ] Air Filtering if ABS
   - [ ] Chamber Cooling if PLA
+  - [ ] Temp Sensors
 
 - [ ] HotSwap Toolhead
   - [ ] Magnets
