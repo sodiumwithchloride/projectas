@@ -11,7 +11,7 @@
   - [ ] Permanent Location
 
 - [ ] Mixing Hotend Klipper\
-I already tried some sort of it on old Creality V1.1.4 MoBo w/ Klipper and seemed to work but needs refinement
+<sub> I already tried some sort of it on old Creality V1.1.4 MoBo w/ Klipper and seemed to work but needs refinement </sub>
   - [ ] Build Toolhead
   - [ ] Wire Toolhead
     - [ ] replace exisiting one? 
