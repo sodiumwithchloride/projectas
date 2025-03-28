@@ -43,7 +43,7 @@
   - [ ] Put everything together
   - [ ] Figure Klipper out
 
-- [ ] [InFiDEL - Inline Filament Diameter Estimator (lowcost)] (https://www.printables.com/model/57154-infidel-inline-filament-diameter-estimator-lowcost)
+- [ ] [InFiDEL - Inline Filament Diameter Estimator (lowcost)](https://www.printables.com/model/57154-infidel-inline-filament-diameter-estimator-lowcost)
   - [x] Order Parts
   - [ ] Print Parts
   - [ ] Figure out stuff cuz i ordered slightly different parts
