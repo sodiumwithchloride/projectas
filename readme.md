@@ -4,9 +4,9 @@
 
 
 - [ ] Switchy
-  - [ ] Print Parts
-  - [ ] Wire everything
-  - [ ] Build Together
+  - [x] Print Parts
+  - [x] Wire everything
+  - [x] Build Together
   - [ ] Integrate
   - [ ] Permanent Location
 
@@ -21,9 +21,9 @@
 - [ ] Linearize ESE
   - [x] Linear Rails
   - [x] Printed Parts
-  - [ ] Mount on SE
+  - [x] Mount on SE
     - [ ] Design new Toolhead for better kinematics
-  - [ ] Calibrate Again
+  - [x] Calibrate Again
   - [ ] Mount ADXL
 
 - [ ] Enclosure
